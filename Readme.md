@@ -29,10 +29,3 @@ The main differences are:
 |Expansion connetor| I2C, UART, GPIOs | 4 GPIOs|
 |USB cable provided| No | Yes |
 
-# More
-
-[rushup.tech](http://rushup.tech/)
-
-<a href="https://catalog.azureiotsuite.com/details?title=Cloud_JAM">
-<img src="https://raw.githubusercontent.com/wiki/rushup/kitra/azure-res/Microsoft_Azure_Certified_RGB.png">
-</a>
