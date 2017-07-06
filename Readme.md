@@ -11,7 +11,7 @@ Cloud-JAM L4 is the product accelerator (production grade solution) of ST functi
 
 At a firmware level the Cloud-Jam works the same way as those 4 hardware combined.
 
-So any project or binary created for STM32L476RG microcontroller can run or be debugged on the Cloud- JAM.
+Like NUCLEO L476RG, the Cloud-JAM-L4 is based on a STM32L476RG microcontroller.
 
 
 # FAQ
